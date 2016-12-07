@@ -2,7 +2,7 @@
 
 ## For more advanced Hive members.
 
-* Can you abstract out the parameter extraction function and use it to analyse an entire folder of data files?
+* Can you separate out the functions to a seperate file, import it `import name_of_function_file` and use it to analyse an entire folder of data files?
 
 ```python
 import os
